@@ -1,2 +1,1 @@
-# cloud-ocr
-Compare cloud OCR services
+# Compare cloud OCR services
