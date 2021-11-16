@@ -24,7 +24,10 @@ The table summarizes the results of the accuracy comparison:
 ![](./doc_images/accuracy.png)  
 
 ### Examples  
-
+Let’s us now demonstrate on several examples how the services in question function and what results they produce. We used the same picture for text recognition in each service.  
+![](./doc_images/IIIT5K_results.png)  
+![](./doc_images/IC13_results.png)
+![](./doc_images/SVHN_results.png) 
 
 ### How to run  
 
