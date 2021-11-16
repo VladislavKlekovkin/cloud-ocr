@@ -21,6 +21,7 @@ In our testing, we used the following 3 datasets containing pictures and annotat
 To compare the OCR accuracy, 500 images were selected from each dataset. Cloud Vision API, Amazon Rekognition, and Azure Cognitive Services results for each image were compared with the ground truth values. The correct result was considered the one that completely coincided with the ground truth, case-insensitive.  
 The accuracy was calculated as follows: Accuracy = 100 * correct samples / (correct samples + incorrect samples).  
 The table summarizes the results of the accuracy comparison:  
+![](./doc_images/accuracy.png)  
 
 #### Examples  
 
