@@ -22,7 +22,7 @@ To compare the OCR accuracy, 500 images were selected from each dataset. Cloud V
 The accuracy was calculated as follows: Accuracy = 100 * correct samples / (correct samples + incorrect samples).  
 The table summarizes the results of the accuracy comparison:  
 ![](./doc_images/accuracy.png)  
-As the results presented in the table demonstrate, among the selected datasets, Google Cloud performs better than Microsoft Azure, and Microsoft Azure performs better than AWS
+As the results presented in the table demonstrate, among the selected datasets, Google Cloud performs better than Microsoft Azure, and Microsoft Azure performs better than AWS.
 
 ### Examples  
 Let’s us now demonstrate on several examples how the services in question function and what results they produce. We used the same picture for text recognition in each service.  
