@@ -11,8 +11,9 @@ This is the code for the following [article](https://medium.com/deelvin-machine-
 #### Data  
 In our testing, we used the following 3 datasets containing pictures and annotations:
 1. [IIIT5K](http://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)  
-2. [IC13](https://rrc.cvc.uab.es/?ch=2&com=downloads)  
-3. [SVHN](http://ufldl.stanford.edu/housenumbers/)  
+![](.doc_images/IIIT5K.png)  
+3. [IC13](https://rrc.cvc.uab.es/?ch=2&com=downloads)  
+4. [SVHN](http://ufldl.stanford.edu/housenumbers/)  
 
 #### Results  
 To compare the OCR accuracy, 500 images were selected from each dataset. Cloud Vision API, Amazon Rekognition, and Azure Cognitive Services results for each image were compared with the ground truth values. The correct result was considered the one that completely coincided with the ground truth, case-insensitive.  
