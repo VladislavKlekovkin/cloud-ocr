@@ -31,5 +31,6 @@ Let’s us now demonstrate on several examples how the services in question func
 ![](./doc_images/SVHN_results.png) 
 
 ### How to run  
-1. Download and unzip datasets to 
-2. 
+1. Download and unzip datasets to 'data/'  
+2. Follow the links in the article to register on the platforms  
+3. Run puthon3 test_{platform}.py  
